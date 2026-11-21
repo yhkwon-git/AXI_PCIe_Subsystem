@@ -1,4 +1,6 @@
-# AXI Multi-Layer Interconnect & PCIe Protocol Bridge
+# AXI_PCIe_Subsystem
+
+**AXI Multi-Layer Interconnect & PCIe Protocol Bridge**
 
 낸드 컨트롤러 안에서 호스트, 펌웨어 CPU, 낸드 채널이 한 칩 위에서 어떻게 붙는지 공부하면서 정리한 서브시스템이다. PCIe 트랜잭션을 AXI로 넘기고, 멀티레이어 인터커넥트가 제어 평면과 데이터 평면을 목적지 포트로 나눈다.
 
